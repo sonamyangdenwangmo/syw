@@ -32,8 +32,7 @@ Sonam Yangden Wangmo
 
 > _"Add your favorite quote or personal tagline here."_
 
-A short paragraph about yourself. Describe who you are, what you're passionate about,
-and what drives you. Keep it personal and authentic — this is your space!
+I am Sonam Yangden Wangmo, a 15 year-old 9th grade student at The Royal Academy. I enjoy reading, exploring new things, and learning about astronomy. I also love listening to music in my free time. I’m driven by curiosity and a desire to keep learning and growing every day.
 
 </div>
 
@@ -45,7 +44,7 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 | Year | Degree / Grade | School |
 |------|-----------------|-------------|
-| 2024 – Present | B.Sc. in Your Major | Your University |
+| 2026 – Present | B.Sc. in Your Major | Your University |
 | 2020 – 2024 | Higher Secondary | Your School/College |
 
 ## 🛠️ Skills
