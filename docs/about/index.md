@@ -25,7 +25,7 @@ title: About Me
 
 <div class="profile-info" markdown>
 
-## Your Name Here 
+
 Sonam Yangden Wangmo
 
 **Title / Role** — student
