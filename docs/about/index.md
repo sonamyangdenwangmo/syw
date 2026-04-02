@@ -30,7 +30,7 @@ Sonam Yangden Wangmo
 
 **Title / Role** — student
 
-> _"Add your favorite quote or personal tagline here."_
+> _"Always keep moving!"_
 
 I am Sonam Yangden Wangmo, a 15 year-old 9th grade student at The Royal Academy. I enjoy reading, exploring new things, and learning about astronomy. I also love listening to music in my free time. I’m driven by curiosity and a desire to keep learning and growing every day.
 
