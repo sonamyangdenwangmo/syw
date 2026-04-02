@@ -44,8 +44,8 @@ I am Sonam Yangden Wangmo, a 15 year-old 9th grade student at The Royal Academy.
 
 | Year | Degree / Grade | School |
 |------|-----------------|-------------|
-| 2026 – Present | B.Sc. in Your Major | Your University |
-| 2020 – 2024 | Higher Secondary | Your School/College |
+| 2026 – Present | Higher Secondary School | The Royal Academy, Paro |
+| 2019 – 2023 | Primary School | Phetakha Primary School, Wangdue Phodrang|
 
 ## 🛠️ Skills
 
