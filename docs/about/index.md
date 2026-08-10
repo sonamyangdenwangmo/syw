@@ -20,7 +20,7 @@ title: About Me
      4. Replace YOUR_FILE_ID below
      ──────────────────────────────────────────────────────── -->
 
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=14OmwQ3bzeh1f6t8-bIP6k0B7Jv6WDxoG" alt="Profile Photo">
+<img class="profile-photo" src="https://drive.google.com/drive/folders/1SWRBmFJqo90flzPDcm9O4EZKTg0G8rcG" alt="Profile Photo">
 
 
 <div class="profile-info" markdown>
@@ -53,8 +53,8 @@ I am Sonam Yangden Wangmo, a 15 year-old 9th grade student at The Royal Academy.
 ##  Interests
 
 - 🔬 **Research Area 1** — I try my best to do good research. 
-- 🎨 **Creative Hobby** —  I have been captivated by music so I like to sing and listen to songs.
-- 🏃 **Sports / Activity** — I am currently trying out sprinting and volleyball although I am not really good at it. 
+- 🎨 **Creative Hobby** —  I have been captivated by music so I like to sing and listen to songs. 
+- 🏃 **Sports / Activity** — I am currently trying out sprinting and volleyball although I am not really good at it. I also try to play badminton, table tennis and basketball. 
 - 📚 **Reading / Learning** — Reading and Learning is the main passion that drives me to be a better version of myself so I try to do more of these as much as possible. 
 
 <hr class="section-divider">
