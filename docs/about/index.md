@@ -52,7 +52,6 @@ I am Sonam Yangden Wangmo, a 15 year-old 9th grade student at The Royal Academy.
 
 ##  Interests
 
-- 🔬 **Research Area 1** — I try my best to do good research. 
 - 🎨 **Creative Hobby** —  I have been captivated by music so I like to sing and listen to songs. 
 - 🏃 **Sports / Activity** — I am currently trying out sprinting and volleyball although I am not really good at it. I also try to play badminton, table tennis and basketball. 
 - 📚 **Reading / Learning** — Reading and Learning is the main passion that drives me to be a better version of myself so I try to do more of these as much as possible. 
