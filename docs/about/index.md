@@ -63,7 +63,7 @@ I am Sonam Yangden Wangmo, a 15 year-old 9th grade student at The Royal Academy.
 
 | Platform | Link |
 |----------|------|
-| :fontawesome-brands-github: GitHub | [yourusername](https://github.com/yourusername) |
+| :fontawesome-brands-github: GitHub | [yourusername](https://github.com/sonamyangdenwangmo) |
 | :fontawesome-brands-linkedin: LinkedIn | [Your Name](https://linkedin.com/in/yourusername) |
 | :material-email: Email | [sonam.ywangmo2024@academy.bt](mailto:your.email@example.com) |
 | :material-web: Website | [yourwebsite.com](https://yourwebsite.com) |
