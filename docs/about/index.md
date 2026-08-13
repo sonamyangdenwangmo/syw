@@ -20,7 +20,7 @@ title: About Me
      4. Replace YOUR_FILE_ID below
      ──────────────────────────────────────────────────────── -->
 
-<img class="profile-photo" src="https://drive.google.com/drive/folders/1SWRBmFJqo90flzPDcm9O4EZKTg0G8rcG" alt="Profile Photo">
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1xLdqsUVfRqKelMdmmGwDXaV46ZvE-79V&sz=w400" alt="Profile Photo">
 
 
 <div class="profile-info" markdown>
@@ -52,6 +52,7 @@ I am Sonam Yangden Wangmo, a 15 year-old 9th grade student at The Royal Academy.
 
 ##  Interests
 
+- 🔬 **Research Area 1** — I try my best to do good research. 
 - 🎨 **Creative Hobby** —  I have been captivated by music so I like to sing and listen to songs. 
 - 🏃 **Sports / Activity** — I am currently trying out sprinting and volleyball although I am not really good at it. I also try to play badminton, table tennis and basketball. 
 - 📚 **Reading / Learning** — Reading and Learning is the main passion that drives me to be a better version of myself so I try to do more of these as much as possible. 
@@ -62,7 +63,7 @@ I am Sonam Yangden Wangmo, a 15 year-old 9th grade student at The Royal Academy.
 
 | Platform | Link |
 |----------|------|
-| :fontawesome-brands-github: GitHub | [yourusername](https://github.com/sonamyangdenwangmo) |
+| :fontawesome-brands-github: GitHub | [yourusername](https://github.com/yourusername) |
 | :fontawesome-brands-linkedin: LinkedIn | [Your Name](https://linkedin.com/in/yourusername) |
 | :material-email: Email | [sonam.ywangmo2024@academy.bt](mailto:your.email@example.com) |
 | :material-web: Website | [yourwebsite.com](https://yourwebsite.com) |
